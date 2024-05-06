@@ -1,0 +1,6 @@
+@WebApiADO_HostAddress = http://localhost:5228
+
+GET {{WebApiADO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiADO", "WebApiADO\WebApiADO.csproj", "{0358D96B-CCE6-4B7D-8E0B-97DBA6E911C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0358D96B-CCE6-4B7D-8E0B-97DBA6E911C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0358D96B-CCE6-4B7D-8E0B-97DBA6E911C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0358D96B-CCE6-4B7D-8E0B-97DBA6E911C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0358D96B-CCE6-4B7D-8E0B-97DBA6E911C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26EBCA1C-4958-44D7-A733-B8CFC24B0010}
+	EndGlobalSection
+EndGlobal
